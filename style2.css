@@ -1,0 +1,12 @@
+#boda{
+	background-color:#ff6600;	
+}
+#output
+{
+background: rgb(184, 79, 79);
+border-radius: 10px;
+border-top: 10px solid #00ffbf;
+padding: 10px;
+float: none;
+text-align: left;
+}

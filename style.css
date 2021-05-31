@@ -1,0 +1,30 @@
+#boda
+{
+	background-color:#ff6600;
+}
+
+ 	.login_div1_hi ,.login_div2_hii
+	{
+		background: white;
+		padding: 30px;
+    padding-left:80px;
+		float: none;
+		border-radius: px;
+	}
+#wassup{
+   background-color:#029226;
+  border-radius:90px;
+}
+#moolah{
+background-color:gold;
+padding-left: 470px;
+}
+#output
+{
+background: #ff6600;
+border-radius: 10px;
+border-top: 10px solid #00ffbf;
+padding: 10px;
+float: none;
+text-align: left;
+}
