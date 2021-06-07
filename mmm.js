@@ -11,6 +11,10 @@ function send(){
     button_check="<br><br><button class='btn btn-success' onlick='check_the_answer()'>Check Your Answer</button>";
     var the_diver=number+nunu+answer+button_check;
     document.getElementById("output").innerHTML=the_diver;
+    document.getElementById("name_1").innerHTML=numn1+" : ";
+    document.getElementById("name_2").innerHTML=numn2+" : ";
+    document.getElementById("question_turn").innerHTML=numn1+" : ";
+    document.getElementById("answer_turn").innerHTML=numn2+" : ";
     document.getElementById("num1").value="";
     document.getElementById("num2").value="";
        }
